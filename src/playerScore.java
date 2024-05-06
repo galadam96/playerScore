@@ -3,7 +3,7 @@ public class playerScore {
 
         int scorePos = calculateHighScorePosition(1500);
         displayHighScorePosition("Adam",scorePos);
-        scorePos = calculateHighScorePosition(1000);
+        scorePos = calculateHighScorePosition(999);
         displayHighScorePosition("Bob",scorePos);
         scorePos = calculateHighScorePosition(500);
         displayHighScorePosition("Peter",scorePos);
